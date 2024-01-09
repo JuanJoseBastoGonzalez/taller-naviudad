@@ -1,0 +1,49 @@
+{
+    "campus": {
+        "campers": {
+            "campers": {
+                "Numero ID": "",
+                "Nombre": "hghg",
+                "Apellido": "65",
+                "Direccion": "7",
+                "Acudiente": {
+                    "id": "7",
+                    "nrotel": "547",
+                    "nombre": "457",
+                    "email": "47"
+                },
+                "Telcontacto": {
+                    "id": "45",
+                    "nrotel": "747756",
+                    "ubicaion": "5467"
+                },
+                "Estado": ""
+            },
+            "1": {
+                "Numero ID": "",
+                "Nombre": "hghg",
+                "Apellido": "65",
+                "Direccion": "7",
+                "Acudiente": {
+                    "id": "7",
+                    "nrotel": "547",
+                    "nombre": "457",
+                    "email": "47"
+                },
+                "Telcontacto": {
+                    "id": "45",
+                    "nrotel": "747756",
+                    "ubicaion": "5467"
+                },
+                "Estado": ""
+            }
+        },
+        "rutas": {
+            "001": "y"
+        },
+        "pruevas": {
+            "001": "7"
+        },
+        "salones": {}
+    }
+}
